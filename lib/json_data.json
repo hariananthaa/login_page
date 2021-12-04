@@ -1,0 +1,46 @@
+[{
+        "id": 0,
+        "name": "Ramu",
+        "category": "Personal Loan",
+        "loanAmount": "2500000",
+        "interestRate": "8.32",
+        "monthlyPayment": "18000",
+        "payoffDate": "Dec 2031"
+    },
+    {
+        "id": 1,
+        "name": "Somu",
+        "category": "Business Loan",
+        "loanAmount": "5000000",
+        "interestRate": "7.01",
+        "monthlyPayment": "300000",
+        "payoffDate": "Mar 2042"
+    },
+    {
+        "id": 2,
+        "name": "Priya",
+        "category": "personal Loan",
+        "loanAmount": "1000000",
+        "interestRate": "8.55",
+        "monthlyPayment": "9000",
+        "payoffDate": "Jun 2028"
+    },
+    {
+        "id": 3,
+        "name": "Anu",
+        "category": "Car Loan",
+        "loanAmount": "1000000",
+        "interestRate": "12.76",
+        "monthlyPayment": "12760",
+        "payoffDate": "Aug 2026"
+    },
+    {
+        "id": 4,
+        "name": "Raja",
+        "category": "Home Loan",
+        "loanAmount": "3200000",
+        "interestRate": "9.35",
+        "monthlyPayment": "25000",
+        "payoffDate": "Feb 2039"
+    }
+]
